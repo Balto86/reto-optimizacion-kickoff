@@ -1,0 +1,6 @@
+#map_canvas, .map-container, #map {
+  width: 100%;
+  height: 400px; /* Forzamos altura para la captura */
+  display: block;
+  background-color: #eee;
+}
